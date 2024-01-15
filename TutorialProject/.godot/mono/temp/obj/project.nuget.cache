@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2Do/bdowGbJJ8YCp7qhN3E1FrJ8r6oB3BrY0XLhkMkFljYkX0p8naZe0EcJ4QCOAQUR0jSoqTxRH4LvyUCr1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajdab\\Documents\\GitHub\\GodotSurvival\\TutorialProject\\Tutorial Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajdab\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\ajdab\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\ajdab\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512",
+    "C:\\Users\\ajdab\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\ajdab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\ajdab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
